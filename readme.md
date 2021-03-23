@@ -9,6 +9,16 @@ waldir.junior@newtonpaiva.br
 
 2021.03.17
 
+## Grupo
+
+12108376 Francisco Leonardo Ferreira 
+
+10921390 Gabriela Tiago Fernandes Lima 
+
+11313012 Nayara Adriana dos Santos 
+
+12109641 Thiago Tavares Mendes
+
 ## Requisitos:
 Os problemas abaixo devem ser escritos na linguagem de programação C.
 

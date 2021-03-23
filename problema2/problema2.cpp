@@ -1,10 +1,9 @@
 #include <iostream>
 #include <string>
 #include <algorithm>
-#include <stdio.h>
-#include <string.h>
 #include <cctype>
 #include <map>
+
 using namespace std;
 
 // Função para contabilizar a quantidade de vezes que uma letra é mencionada numa frase
