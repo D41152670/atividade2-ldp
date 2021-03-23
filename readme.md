@@ -30,7 +30,7 @@ O trabalho deverá ser submetido SOMENTE pela plataforma CANVAS somente. Não se
 
 O código fonte deverá estar formatado, identado e documentado. Para todos os problemas abaixo, deverá ser usado: ponteiros e alocação dinâmica de memória (malloc/free)
 
-# Problema 1 (2pts):
+# Problema 1 (2pts) : (ANULADA)
 Entrada: um tamanho de vetor (N, inteiro) informado pelo usuário
 
 Saída: 
